@@ -1,0 +1,19 @@
+/**
+ * Simple Testimonials - Admin Styles
+ */
+
+.st-testimonial-meta-box .form-table th {
+    width: 150px;
+    padding: 15px 10px 15px 0;
+}
+
+.st-testimonial-meta-box .form-table td {
+    padding: 15px 10px;
+}
+
+.st-testimonial-meta-box input[type="text"],
+.st-testimonial-meta-box select {
+    width: 100%;
+    max-width: 400px;
+}
+
