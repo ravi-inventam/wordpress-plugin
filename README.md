@@ -1,6 +1,6 @@
-# Simple Testimonials WordPress Plugin
+# Testimonials-slider WordPress Plugin
 
-A simple testimonials system with custom post type, custom fields, and shortcode display.
+A testimonials slider system with custom post type, custom fields, smooth animations, and shortcode display.
 
 ## Folder Structure
 

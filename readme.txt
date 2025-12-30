@@ -1,17 +1,17 @@
-=== Simple Testimonials ===
+=== Testimonials-slider ===
 Contributors: yourname
-Tags: testimonials, reviews, custom post type, shortcode
+Tags: testimonials, reviews, custom post type, shortcode, slider
 Requires at least: 5.0
 Tested up to: 6.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-A simple testimonials system with custom post type, custom fields, and shortcode display.
+A testimonials slider system with custom post type, custom fields, smooth animations, and shortcode display.
 
 == Description ==
 
-Simple Testimonials is a WordPress plugin that allows you to easily manage and display customer testimonials on your website.
+Testimonials-slider is a WordPress plugin that allows you to easily manage and display customer testimonials with smooth slider animations on your website.
 
 **Features:**
 
@@ -19,6 +19,7 @@ Simple Testimonials is a WordPress plugin that allows you to easily manage and d
 * Custom Fields: Author Name, Role/Title, and Rating (1-5 stars)
 * Shortcode to display testimonials anywhere
 * Two layout options: List and Slider
+* Smooth slider animations with touch/swipe support
 * Responsive design
 * Easy to customize
 
@@ -77,5 +78,5 @@ Yes, use `[testimonials layout="slider"]` to display testimonials in a slider fo
 == Upgrade Notice ==
 
 = 1.0.0 =
-Initial release of Simple Testimonials plugin.
+Initial release of Testimonials-slider plugin.
 

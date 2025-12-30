@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Simple Testimonials
+ * Plugin Name: Testimonials-slider
  * Plugin URI: https://example.com/testimonials-plugin
- * Description: A simple testimonials system with custom post type, custom fields, and shortcode display.
+ * Description: A testimonials slider system with custom post type, custom fields, smooth animations, and shortcode display.
  * Version: 1.0.0
  * Author: Your Name
  * Author URI: https://example.com

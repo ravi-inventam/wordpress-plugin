@@ -2,7 +2,7 @@
 /**
  * Custom Meta Boxes for Testimonials
  *
- * @package Simple_Testimonials
+ * @package Testimonials_Slider
  */
 
 // Exit if accessed directly
